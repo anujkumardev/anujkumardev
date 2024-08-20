@@ -18,9 +18,9 @@ Here are some of my recent projects:
 - [Project 3](link) - A brief description of what this project is about.
 
 ## Skills
-- **Languages:** [Languages you know]
-- **Frameworks:** [Frameworks you work with]
-- **Tools:** [Tools you use]
+- **Languages:** c, c++, Java, Python, Javascript, Typescript.
+- **Frameworks:** React JS, Angular, Next JS, Express JS.
+- **Tools:** VS-code, Git.
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anujkumardev&show_icons=true&theme=radical)
